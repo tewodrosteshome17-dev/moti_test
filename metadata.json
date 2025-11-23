@@ -1,0 +1,5 @@
+{
+  "name": "EmployeeConnect",
+  "description": "A comprehensive employee management system featuring leave and overtime tracking, secure authentication, and an administrative dashboard for request approval.",
+  "requestFramePermissions": []
+}
